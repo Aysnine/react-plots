@@ -18,7 +18,7 @@ program
       port,
       host,
     }, {
-      entryPoints: ['src/index.tsx'],
+      entryPoints: ['src/index.tsx', 'src/index.css'],
       outdir: 'public',
       bundle: true,
       sourcemap: true,
