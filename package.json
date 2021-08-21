@@ -7,6 +7,9 @@
     "cli": "node bin/cli.js"
   },
   "devDependencies": {
+    "@types/commander": "^2.12.2",
+    "@types/react": "^17.0.19",
+    "@types/react-dom": "^17.0.9",
     "commander": "^8.1.0",
     "esbuild": "^0.12.22",
     "typescript": "^4.3.5"
